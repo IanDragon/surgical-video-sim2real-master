@@ -1,0 +1,1 @@
+blender ExampleScene_FakeLiver.blend -b -P renderRandomImages.py -- --images 10 --test_render --texture_patch_size 512
